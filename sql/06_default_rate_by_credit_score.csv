@@ -1,0 +1,5 @@
+credit_score_segment,total_customers,default_count,default_rate_pct,avg_external_score,avg_income
+Very Low (< 0.25),67848,10428.0,15.37,0.172,153904.0
+Low (0.25-0.50),174623,12411.0,7.11,0.38,168656.0
+Medium (0.50-0.75),63153,1960.0,3.1,0.596,184320.0
+High (0.75+),1887,26.0,1.38,0.772,197959.0

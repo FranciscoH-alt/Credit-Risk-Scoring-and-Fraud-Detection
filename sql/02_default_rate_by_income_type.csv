@@ -1,0 +1,9 @@
+income_type,total_customers,default_count,default_rate_pct,avg_income,avg_credit,avg_dti_ratio
+Maternity leave,5,2.0,40.0,140400.0,749700.0,8.29
+Unemployed,22,8.0,36.36,110536.0,764386.0,11.87
+Working,158774,15224.0,9.59,163170.0,577011.0,3.89
+Commercial associate,71617,5360.0,7.48,202955.0,669913.0,3.69
+State servant,21703,1249.0,5.75,179738.0,669819.0,4.17
+Pensioner,55362,2982.0,5.39,136401.0,542546.0,4.41
+Businessman,10,0.0,0.0,652500.0,1228500.0,2.86
+Student,18,0.0,0.0,170500.0,510788.0,3.59
