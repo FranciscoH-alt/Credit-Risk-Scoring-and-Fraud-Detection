@@ -1,0 +1,27 @@
+# Database files
+*.duckdb
+*.db
+*.sqlite
+
+# Data directories
+/data/
+/downloads/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.env
