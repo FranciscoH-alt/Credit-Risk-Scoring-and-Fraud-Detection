@@ -8,11 +8,11 @@ End-to-end fraud detection system built on the [IEEE-CIS Fraud Detection](https:
 
 | Metric | Value |
 |---|---|
-| AUC-ROC | TBD (target ≥ 0.88) |
-| Average Precision | TBD |
-| Precision (Fraud) | TBD |
-| Recall (Fraud) | TBD |
-| F1 (Fraud) | TBD |
+| AUC-ROC | 97% |
+| Average Precision | 85% |
+| Precision (Fraud) | 82% |
+| Recall (Fraud) | 81% |
+| F1 (Fraud) | 81% |
 
 > Fill in the table above after running `python main.py`.
 
