@@ -19,5 +19,6 @@ venv/
 # Large generated files
 *.parquet
 
+#claude
 .claude
 .claude/
