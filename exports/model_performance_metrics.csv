@@ -1,0 +1,11 @@
+metric_name,value
+auc_roc,0.9702
+avg_precision,0.853
+precision_fraud,0.8799
+recall_fraud,0.7571
+f1_fraud,0.8139
+precision_legit,0.9912
+recall_legit,0.9963
+f1_legit,0.9937
+support_fraud,4133.0
+support_legit,113975.0

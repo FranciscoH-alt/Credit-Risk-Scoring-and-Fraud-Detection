@@ -1,36 +1,20 @@
-# Environment — never commit credentials
-.env
-
-# Processed data (recreatable by running the pipeline)
-data/raw/
-data/processed/
-
-# Model artifacts
-models/*.pkl
-
-# Generated outputs
-exports/
-visuals/
-
 # Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
-*.egg-info/
-dist/
-build/
-.venv/
-venv/
-env/
 
 # Jupyter
 .ipynb_checkpoints/
 
-# macOS
+# Mac
 .DS_Store
 
-# IDE
-.vscode/
-.idea/
+# Local databases
+*.duckdb
+data/*.duckdb
+
+# Virtual env
+.venv/
+venv/
+
+# Large generated files
+*.parquet

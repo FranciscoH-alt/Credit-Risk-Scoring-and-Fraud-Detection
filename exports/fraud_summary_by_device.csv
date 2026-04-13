@@ -1,0 +1,10 @@
+device_type,risk_label,transaction_count,total_amount,avg_fraud_prob,actual_fraud_count
+desktop,High,956,74446.23,0.965,891.0
+desktop,Low,15929,1518089.27,0.0142,145.0
+desktop,Medium,338,29451.68,0.4808,95.0
+mobile,High,1035,106288.74,0.9655,967.0
+mobile,Low,9781,655174.83,0.019,111.0
+mobile,Medium,262,20505.85,0.4816,73.0
+unknown,High,1107,244418.53,0.9446,1065.0
+unknown,Low,88093,13157073.13,0.0118,567.0
+unknown,Medium,607,160270.58,0.4457,219.0

@@ -1,0 +1,4 @@
+risk_label,risk_score,transaction_count,pct_of_total,avg_amount,avg_fraud_prob
+Low,1,113803,96.36,134.71,0.0127
+Medium,2,1207,1.02,174.17,0.4633
+High,3,3098,2.62,137.23,0.9579

@@ -1,0 +1,16 @@
+card_type,risk_label,transaction_count,total_amount,avg_fraud_prob,actual_fraud_count
+american express,High,28,5865.0,0.98,28.0
+american express,Low,1640,284384.25,0.0085,11.0
+american express,Medium,15,3400.0,0.3912,5.0
+discover,High,87,31974.25,0.9424,82.0
+discover,Low,1192,300594.28,0.0221,16.0
+discover,Medium,35,12989.57,0.4683,11.0
+mastercard,High,995,114272.9,0.9575,931.0
+mastercard,Low,36360,4830711.11,0.0124,267.0
+mastercard,Medium,405,60927.66,0.4684,117.0
+unknown,High,5,545.56,0.9296,5.0
+unknown,Low,316,46518.0,0.0144,6.0
+unknown,Medium,3,918.45,0.4171,0.0
+visa,High,1983,272495.79,0.9585,1877.0
+visa,Low,74295,9868129.59,0.0128,523.0
+visa,Medium,749,131992.43,0.462,254.0
